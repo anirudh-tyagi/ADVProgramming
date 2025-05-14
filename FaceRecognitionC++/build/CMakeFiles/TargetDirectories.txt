@@ -1,0 +1,4 @@
+/Users/anirudhtyagi/Documents/ADVProgramming/FaceRecognitionC++/build/CMakeFiles/face_train.dir
+/Users/anirudhtyagi/Documents/ADVProgramming/FaceRecognitionC++/build/CMakeFiles/main.dir
+/Users/anirudhtyagi/Documents/ADVProgramming/FaceRecognitionC++/build/CMakeFiles/edit_cache.dir
+/Users/anirudhtyagi/Documents/ADVProgramming/FaceRecognitionC++/build/CMakeFiles/rebuild_cache.dir
